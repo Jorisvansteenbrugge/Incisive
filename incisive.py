@@ -7,12 +7,12 @@ from os import path
 
 ######################
 
-orthofile = "/home/joris/nemaNAS/steen176/Ava/data/orthofinder_output_ORFs_75_110/Results_Mar04/Orthogroups/Orthogroups.tsv"
-alignment_outfolder = "/home/joris/nemaNAS/steen176/Ava/data/Incisive_out_75_110"
+orthofile = "Orthogroups.tsv"
+alignment_outfolder = "Incisive_out_75_110"
 
 genome = 'meloidogyne_incognita.PRJEB8714.WBPS14.genomic_softmasked.fa.orfs_75_110'
-genome_protein_fasta = "/home/joris/nemaNAS/steen176/Ava/data/genome_sequences/orfs/orfs_75_110/meloidogyne_incognita.PRJEB8714.WBPS14.genomic_softmasked.fa.orfs_75_110.fa"
-genome_CDS_fasta = "/home/joris/nemaNAS/steen176/Ava/data/genome_sequences/cds/incognita_orf_75_110_cds.fa"
+genome_protein_fasta = "meloidogyne_incognita.PRJEB8714.WBPS14.genomic_softmasked.fa.orfs_75_110.fa"
+genome_CDS_fasta = "incognita_orf_75_110_cds.fa"
 
 
 
